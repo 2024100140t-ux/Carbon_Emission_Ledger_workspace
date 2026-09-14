@@ -1,0 +1,15 @@
+﻿name: carbon_api
+description: API client for the Carbon Emission Ledger.
+version: 1.0.0
+resolution: workspace
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  http: ^1.2.0
+  logging: ^1.2.0
+  terminal_colors: ^1.0.0
+
+dev_dependencies:
+  test: ^1.24.0

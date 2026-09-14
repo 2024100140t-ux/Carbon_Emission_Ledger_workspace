@@ -1,0 +1,11 @@
+﻿name: carbon_workspace
+environment:
+  sdk: ^3.8.1
+
+workspace:
+  - terminal_colors
+  - carbon_api
+  - carbon_cli
+
+dev_dependencies:
+  lints: ^6.0.0
